@@ -11,3 +11,5 @@ I have chosen to use their smallest vectors with the least dimensions (50d), sin
 however, you are more than welcome to download the other files from the Glove site ([zip files](https://nlp.stanford.edu/data/glove.6B.zip)) and play around with it.
 
 I changed the functions and made them slower and less efficient, but in doing so, you can see in inside of them and have a better understanding of how they work. I have also changed the plotting tools to pyplot and made some enhancements.
+
+![Image description](link-to-image)
