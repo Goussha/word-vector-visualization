@@ -12,4 +12,4 @@ however, you are more than welcome to download the other files from the Glove si
 
 I changed the functions and made them slower and less efficient, but in doing so, you can see in inside of them and have a better understanding of how they work. I have also changed the plotting tools to pyplot and made some enhancements.
 
-![Image description](link-to-image)
+![A sample](https://i.imgur.com/ToMFyAq.png)
